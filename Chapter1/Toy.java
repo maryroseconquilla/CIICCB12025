@@ -5,6 +5,11 @@ public class Toy {
     double price;
     int quantity;
 
+    void setPrice(double price){
+    this.price=price;
+
+    }
+
 /**
  * @param args
  */
