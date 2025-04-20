@@ -1,4 +1,16 @@
 package Chapter1;
+
+/**
+ * Toy object
+ * has a properties of name,brand,price,quantity
+ * with a Toy.setPrice method
+ * through it invokes {@link #setPrice(double)}
+ *  {@link #setPrice()}
+ * 
+ * @param price The {@code double} to be printed.
+ * 
+ */
+
 public class Toy {
     String name;
     String brand;
@@ -27,9 +39,19 @@ public static void main(String[] args) {
     toy2.price=1000;
     toy2.quantity = 8;
 
-    toy1.price=1800;
-    toy2.price=1500;
+    //toy1.price=1800;
+    toy1.setPrice(1500);
     System.out.println(toy1.price);
-    System.out.println(toy2.price);
+    System.out.println(toy2.price); 
+    }
+    
+
 }
+class fish{
+
+}
+class color{
+public static void main(String[] args) {
+    System.out.println("Red");
+    }
 }
