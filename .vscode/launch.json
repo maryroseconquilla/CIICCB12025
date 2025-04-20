@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "InstanceIniLesson",
+            "request": "launch",
+            "mainClass": "chapter1.InstanceIniLesson",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorLesson",
+            "request": "launch",
+            "mainClass": "chapter1.ConstructorLesson",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "chapter1.Main",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "chapter1.Name",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "NamingConflictLesson",
+            "request": "launch",
+            "mainClass": "chapter1.NamingConflictLesson",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Swan",
+            "request": "launch",
+            "mainClass": "chapter1.Swan",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Toy",
+            "request": "launch",
+            "mainClass": "chapter1.Toy",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "color",
+            "request": "launch",
+            "mainClass": "chapter1.color",
+            "projectName": "CIICCB12025_98bc1891"
+        }
+    ]
+}
