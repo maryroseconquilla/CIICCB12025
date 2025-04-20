@@ -32,8 +32,9 @@ class Name{
     public static void main(String[] args) {
         Name name1 = new Name();
         System.out.println(name1.full);
-        name1.first="Bilog";
+        name1.first="Bilog ";
         name1.last="Dill";
+        name1.full=name1.first + name1.last;
         System.out.println(name1.full);
     }
 }

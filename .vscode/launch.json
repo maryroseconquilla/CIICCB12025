@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ReferenceLesson",
+            "request": "launch",
+            "mainClass": "chapter1.ReferenceLesson",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "PrimitivesLesson",
+            "request": "launch",
+            "mainClass": "chapter1.PrimitivesLesson",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "InstanceIniLesson",
             "request": "launch",
             "mainClass": "chapter1.InstanceIniLesson",
