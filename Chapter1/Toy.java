@@ -52,6 +52,8 @@ class fish{
 }
 class color{
 public static void main(String[] args) {
+    Toy toy3 = new Toy();
+    fish f1 = new fish();
     System.out.println("Red");
     }
 }
