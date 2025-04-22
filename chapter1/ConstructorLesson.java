@@ -11,9 +11,9 @@ public class ConstructorLesson {
 class Chicken{
     int numEggs=0;
     String name;
-    public Chicken(){
-        name = "Duke";
-    }
+        public Chicken(){           //constructor
+            name = "Duke";
+        }
 }
 
 class Swan {

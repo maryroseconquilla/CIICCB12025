@@ -1,6 +1,9 @@
 package chapter1;
 
 public class ReferenceLesson {
+    public ReferenceLesson(){       //constructor
+
+    }
     public static void main(String[] args) {
         java.util.Date today = new java.util.Date();
         String greeting = "Ohayo!";

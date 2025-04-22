@@ -9,7 +9,8 @@
             "name": "ReferenceLesson",
             "request": "launch",
             "mainClass": "chapter1.ReferenceLesson",
-            "projectName": "CIICCB12025_98bc1891"
+            "projectName": "CIICCB12025_98bc1891",
+            "args": "500"
         },
         {
             "type": "java",
