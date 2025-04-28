@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArithmeticTask",
+            "request": "launch",
+            "mainClass": "Task1.ArithmeticTask",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "HelloWorldApp",
             "request": "launch",
             "mainClass": "Task1.HelloWorldApp",
