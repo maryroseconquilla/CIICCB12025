@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArithmeticSample",
+            "request": "launch",
+            "mainClass": "chapter2.ArithmeticSample",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "TernaryTester",
+            "request": "launch",
+            "mainClass": "chapter2.TernaryTester",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "CompareValues",
+            "request": "launch",
+            "mainClass": "chapter2.CompareValues",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Rabbit",
+            "request": "launch",
+            "mainClass": "aquarium.Rabbit",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Bear",
+            "request": "launch",
+            "mainClass": "aquarium.Bear",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Salmon",
+            "request": "launch",
+            "mainClass": "aquarium.Salmon",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "BirdDisplay",
+            "request": "launch",
+            "mainClass": "aquarium.BirdDisplay",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "OperatorsLesson",
+            "request": "launch",
+            "mainClass": "chapter2.OperatorsLesson",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "ReferenceLesson",
             "request": "launch",
             "mainClass": "chapter1.ReferenceLesson",
