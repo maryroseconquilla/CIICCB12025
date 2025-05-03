@@ -7,12 +7,15 @@ public class Task3 {
         String c = a;
         String d = c;
 
-        boolean b1 = a ==b;
-        boolean b2 = d.equals(b + "!");
-        boolean b3 = !c.equals(a);
+        boolean b1 = a !=b;
+        boolean b2 = d.equals(b);
+        boolean b3 = c.equals(a);
+
+        System.out.println(b3);
 
         if (b1 && b2 && b3){
             System.out.println("Success!");
-        }
+        } 
+        
     }
 }
