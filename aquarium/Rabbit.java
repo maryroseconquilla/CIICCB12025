@@ -7,6 +7,7 @@ public class Rabbit {
         Rabbit three = one;
         one = null;
         Rabbit four = one;
+        three = null;
         two = null;
         two = new Rabbit();
         System.gc();

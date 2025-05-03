@@ -1,10 +1,13 @@
 package chapter1;
 
 public class ConstructorLesson {
-    public static void main(String[] args) {
-        Chicken c1 = new Chicken();
+    //public static void main(String[] args) {
+      //  Chicken c1 = new Chicken();
         Chicken c2 = new Chicken();
-        System.out.println();
+       // System.out.println();
+    //}
+    public void main(String[] args){
+        
     }
 }
 
