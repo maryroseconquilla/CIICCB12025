@@ -2,7 +2,7 @@ package chapter3;
 
 public class ArraySumAverage {
     public static void main(String[] args) {
-        int[] numbers = {1, 2, 3, 4, 5};
+        int[] numbers = {91, 82, 93, 84, 75};
 
         int sum = 0;
         for (int number : numbers) {
