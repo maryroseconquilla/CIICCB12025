@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DatesAndTimeLesson",
+            "request": "launch",
+            "mainClass": "chapter3.DatesAndTimeLesson",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "Task3",
             "request": "launch",
             "mainClass": "chapter2.Task3",
