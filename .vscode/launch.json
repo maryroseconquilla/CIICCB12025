@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArraySumAverage",
+            "request": "launch",
+            "mainClass": "chapter3.ArraySumAverage",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "DatesAndTimeLesson",
             "request": "launch",
             "mainClass": "chapter3.DatesAndTimeLesson",

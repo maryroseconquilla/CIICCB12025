@@ -27,10 +27,12 @@ public class DatesAndTimeLesson {
         
         System.out.println(time1);
         //
-        
 
         // DateTime plus or minus - Years, Months, Weeks, Days, Hours, Minutes, Second, Nanos
         System.out.println(ldt1.plusDays(21).plusHours(2));
         System.out.println(ldt1);
+        ldt1.getDayOfWeek();
+        System.out.println(date1.lengthOfMonth());
+        System.out.println(date1);
     }
 }
