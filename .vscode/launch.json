@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StartOfSummer",
+            "request": "launch",
+            "mainClass": "chapter3.StartOfSummer",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Lion",
+            "request": "launch",
+            "mainClass": "animals.Lion",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Fish",
+            "request": "launch",
+            "mainClass": "chapter3.Fish",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "ArraySumAverage",
             "request": "launch",
             "mainClass": "chapter3.ArraySumAverage",

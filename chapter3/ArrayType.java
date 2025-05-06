@@ -10,5 +10,8 @@ public class ArrayType {
 
         String[] birds=new String[6];
         System.out.println(birds.length);
+
+        
+
     }
 }
