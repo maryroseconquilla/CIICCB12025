@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EPractizeLab",
+            "request": "launch",
+            "mainClass": "Midterm.EPractizeLab",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Sorter",
+            "request": "launch",
+            "mainClass": "Midterm.Sorter",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "animals.Test",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "OCAJP",
+            "request": "launch",
+            "mainClass": "Midterm.OCAJP",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Pro",
+            "request": "launch",
+            "mainClass": "Midterm.Pro",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Midterm.Program",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Exam",
+            "request": "launch",
+            "mainClass": "Midterm.Exam",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "StartOfSummer",
             "request": "launch",
             "mainClass": "chapter3.StartOfSummer",
