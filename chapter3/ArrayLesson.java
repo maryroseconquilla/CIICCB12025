@@ -1,7 +1,5 @@
 package chapter3;
 
-import java.util.*;
-
 public class ArrayLesson {
     //public static void main(String[] args) {
        // int [] i = new int[3];
@@ -14,13 +12,13 @@ public class ArrayLesson {
         // System.out.println(numbers3[j]);
 
         static int x = 2;
-public final static void main(String[] a){
-int []a = new int[x];
-a[2] = 2;
-for (int i:a)
-	System.out.print(i);
-	}
-    }
+//public final static void main(String[] a){
+//int []a = new int[x];
+//a[2] = 2;
+//for (int i:a)
+//	System.out.print(i);
+//	}
+  //  }
     
 
 
@@ -30,4 +28,5 @@ class Student{
     String address;
     String course;
     int yearlevel;
+}
 }

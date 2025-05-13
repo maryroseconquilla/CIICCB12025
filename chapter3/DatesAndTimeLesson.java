@@ -6,14 +6,14 @@ public class DatesAndTimeLesson {
         System.out.println(LocalDate.now());
         System.out.println(LocalDateTime.now());
         LocalDate date1 =LocalDate.of(2015,6,7);    //validation
-        LocalDate date2 =LocalDate.of(2015,Month.JANUARY,20);    //validation
+        //LocalDate date2 =LocalDate.of(2015,Month.JANUARY,20);    //validation
 
         LocalTime time1 = LocalTime.of(23,59);
-        LocalTime time2 = LocalTime.of(6,15,30);
-        LocalTime time3 = LocalTime.of(6,15,30,26);
+        //LocalTime time2 = LocalTime.of(6,15,30);
+        //LocalTime time3 = LocalTime.of(6,15,30,26);
 
         LocalDateTime ldt1 = LocalDateTime.of(2005,Month.JANUARY,20,6,15);
-        LocalDateTime ldt2 = LocalDateTime.of(date1,time1);
+        //LocalDateTime ldt2 = LocalDateTime.of(date1,time1);
         
         //date plus or minus - Years, Months, Weeks, Days
         System.out.println(date1.plusDays(40).minusWeeks(3));
