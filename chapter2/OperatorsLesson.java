@@ -1,7 +1,5 @@
 package chapter2;
 
-import java.nio.channels.Pipe.SourceChannel;
-
 public class OperatorsLesson {
     public static void main(String[] args) {
         int a = +9;
@@ -20,12 +18,12 @@ public class OperatorsLesson {
         // 1100
         System.out.println(12>>4);
         System.out.println(1<2);
-        System.out.println(1==1);
+        //System.out.println(1==1);
 
         //double x = 39.21;
         //float y = 2.1F;
-        short l = 10;
-        short p = 10;
+        //short l = 10;
+        //short p = 10;
 
        // int x = 2, z = 3;
        // x = x * z; //6
