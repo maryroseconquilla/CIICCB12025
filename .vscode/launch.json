@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestParam",
+            "request": "launch",
+            "mainClass": "Task8.TestParam",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Parameters",
+            "request": "launch",
+            "mainClass": "Task8.Parameters",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "BasicArithmetic",
             "request": "launch",
             "mainClass": "Task7.BasicArithmetic",
