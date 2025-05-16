@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BasicArithmetic",
+            "request": "launch",
+            "mainClass": "Task7.BasicArithmetic",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "Glider2",
             "request": "launch",
             "mainClass": "Glider2",
