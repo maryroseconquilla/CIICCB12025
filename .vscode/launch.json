@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Book",
+            "request": "launch",
+            "mainClass": "Task.Book",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Book2",
+            "request": "launch",
+            "mainClass": "Task.Book2",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Book1",
+            "request": "launch",
+            "mainClass": "Task.Book1",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Libro",
+            "request": "launch",
+            "mainClass": "Task.Libro",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Task.Car",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "Student",
             "request": "launch",
             "mainClass": "Task.Student",
