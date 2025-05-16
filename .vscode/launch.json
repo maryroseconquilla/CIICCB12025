@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task7",
+            "request": "launch",
+            "mainClass": "Task.Task7",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Task8",
+            "request": "launch",
+            "mainClass": "Task.Task8",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Task9",
+            "request": "launch",
+            "mainClass": "Task.Task9",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "BasicMath",
             "request": "launch",
             "mainClass": "Task9.BasicMath",
