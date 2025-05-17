@@ -2,6 +2,13 @@ package Task;
 
 public class Book {
     public static void main(String[] args) {
+      printBooks(args);
+   }
+
+    public static void printBooks(String... books){
+        for (int i =0; i < books.length; i++){
+            System.out.println();
+        }
     }
 }
 
