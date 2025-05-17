@@ -31,7 +31,7 @@ class Book1 {
 
     public static void main(String[] args) {
         Book1 myBooks = new Book1(); // Calls the default constructor
-        myBooks.display(); // Output: Name: Unknown, Age: 0
+        myBooks.display(); 
     }
 }
 
@@ -54,7 +54,7 @@ class Book2 {
 
     public static void main(String[] args) {
         Book2 myBooks = new Book2(); // Calls the default constructor
-        myBooks.display(); // Output: Name: Unknown, Age: 0
+        myBooks.display(); 
     }
 }
 
@@ -78,6 +78,6 @@ class Book3 {
 
     public static void main(String[] args) {
         Book3 myBooks = new Book3(); // Calls the default constructor
-        myBooks.display(); // Output: Name: Unknown, Age: 0
+        myBooks.display(); 
     }
 }
