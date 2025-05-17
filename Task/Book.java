@@ -2,14 +2,16 @@ package Task;
 
 public class Book {
     public static void main(String[] args) {
-      printBooks(args);
+      printBooks("1","2","3");
+      //printBooks(" Java Programming"," Python Basics"," C++ Essentials");
    }
 
-    public static void printBooks(String... books){
-        for (int i =0; i < books.length; i++){
-            System.out.println();
+    public static void printBooks(String...names) {
+        for (int i =0; i < names.length; i++){
+            System.out.println("Book " + names[i] + "\n" + "Title :" +  "\n" + "Author :" + "\n" + "Year Published :" + "\n" + "Price :" + "\n");
         }
     }
+
 }
 
 class Book1 {
