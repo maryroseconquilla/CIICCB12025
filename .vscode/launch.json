@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberToMonth",
+            "request": "launch",
+            "mainClass": "Task.NumberToMonth",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "Grade",
             "request": "launch",
             "mainClass": "Task.Grade",
