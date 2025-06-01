@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DayOfWeek",
+            "request": "launch",
+            "mainClass": "Task.DayOfWeek",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "NumberToDay",
             "request": "launch",
             "mainClass": "Task.NumberToDay",

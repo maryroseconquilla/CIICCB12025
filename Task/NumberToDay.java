@@ -1,5 +1,6 @@
 package Task;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class NumberToDay {
@@ -38,6 +39,7 @@ public class NumberToDay {
 
 // Create a Scanner object to read input from the console
         Scanner scanner = new Scanner(System.in);
+        int number;
 
         // Declare an array to store the seven inputs
         String[] inputs = new String[7];
@@ -68,7 +70,7 @@ public class NumberToDay {
         int day4 = 4;
         int day5 = 5; 
         int day6 = 6; 
-        int day7 = 7; 
+        int day7 = 0; 
 
 
 
@@ -79,5 +81,6 @@ public class NumberToDay {
         System.out.println(day5 + " " + getDayName(day5));
         System.out.println(day6 + " " + getDayName(day6));
         System.out.println(day7 + " " + getDayName(day7));
+
     }
 }
