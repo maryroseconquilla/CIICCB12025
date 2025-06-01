@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumCheck",
+            "request": "launch",
+            "mainClass": "Task.NumCheck",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "DayOfWeek",
             "request": "launch",
             "mainClass": "Task.DayOfWeek",
