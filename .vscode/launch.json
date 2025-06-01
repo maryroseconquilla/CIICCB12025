@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberToDay",
+            "request": "launch",
+            "mainClass": "Task.NumberToDay",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "Exercise7",
             "request": "launch",
             "mainClass": "Task.Exercise7",
