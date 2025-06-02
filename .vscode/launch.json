@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tasksheet113",
+            "request": "launch",
+            "mainClass": "Task.Tasksheet113",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "OddEven",
+            "request": "launch",
+            "mainClass": "Task.OddEven",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Tasksheet",
+            "request": "launch",
+            "mainClass": "Task.Tasksheet",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "Task6",
             "request": "launch",
             "mainClass": "Task.Task6",
