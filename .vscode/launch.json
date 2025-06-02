@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyDate",
+            "request": "launch",
+            "mainClass": "MyDate",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "DateTask",
+            "request": "launch",
+            "mainClass": "DateTask",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "DateTask",
+            "request": "launch",
+            "mainClass": "Task.DateTask",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "Tasksheet113",
             "request": "launch",
             "mainClass": "Task.Tasksheet113",
