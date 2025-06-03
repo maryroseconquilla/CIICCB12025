@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "Task.Loop",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Panda",
+            "request": "launch",
+            "mainClass": "animals.Panda",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "test",
             "request": "launch",
             "mainClass": "animals.test",
