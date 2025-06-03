@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MultiplicationTable",
+            "request": "launch",
+            "mainClass": "Task.MultiplicationTable",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "Loop",
             "request": "launch",
             "mainClass": "Task.Loop",
