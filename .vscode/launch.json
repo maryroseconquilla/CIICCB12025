@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "animals.test",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Task131",
+            "request": "launch",
+            "mainClass": "Task13.Task131",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Automobile",
+            "request": "launch",
+            "mainClass": "vehicles.Automobile",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "ElectricCar",
+            "request": "launch",
+            "mainClass": "vehicles.ElectricCar",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Song",
+            "request": "launch",
+            "mainClass": "radio.Song",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "MyDate",
             "request": "launch",
             "mainClass": "MyDate",
