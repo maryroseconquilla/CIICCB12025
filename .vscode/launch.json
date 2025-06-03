@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Task12",
+            "request": "launch",
+            "mainClass": "Task.Task12",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "animals.Program",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "StringBuilderTenChar",
             "request": "launch",
             "mainClass": "Task.StringBuilderTenChar",
