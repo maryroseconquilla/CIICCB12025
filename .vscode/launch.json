@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CountNumbers",
+            "request": "launch",
+            "mainClass": "Task.CountNumbers",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "VowelsConsonants",
             "request": "launch",
             "mainClass": "Task.VowelsConsonants",
