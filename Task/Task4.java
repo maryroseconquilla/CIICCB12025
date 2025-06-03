@@ -40,7 +40,7 @@ public class Task4 {
 
 
     public static String reverseString(String input) {
-        StringBuilder reversedString = new StringBuilder(input);
+        StringBuilderTenChar reversedString = new StringBuilderTenChar(input);
         reversedString.reverse();
         return reversedString.toString();
     }

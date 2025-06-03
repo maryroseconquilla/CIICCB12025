@@ -1,9 +1,9 @@
-package animals;
+package Task;
 
 import java.util.Scanner;
 
-public class Panda  { 
-     public static void main(String[] args) {
+public class StringBuilderTenChar {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string: ");
         String inputString = scanner.nextLine();

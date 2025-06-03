@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringBuilderTenChar",
+            "request": "launch",
+            "mainClass": "Task.StringBuilderTenChar",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "StringBuilder",
+            "request": "launch",
+            "mainClass": "Task.StringBuilder",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "CountNumbers",
             "request": "launch",
             "mainClass": "Task.CountNumbers",
