@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Laptop",
+            "request": "launch",
+            "mainClass": "machines.Laptop",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "ClownFish",
+            "request": "launch",
+            "mainClass": "aquarium.ClownFish",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Spider",
+            "request": "launch",
+            "mainClass": "animals.Spider",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Frog",
+            "request": "launch",
+            "mainClass": "animals.Frog",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "animals.Dog",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Cat",
+            "request": "launch",
+            "mainClass": "animals.Cat",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Mouse",
+            "request": "launch",
+            "mainClass": "animals.Mouse",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Laptop",
+            "request": "launch",
+            "mainClass": "animals.Laptop",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "DoSomething",
+            "request": "launch",
+            "mainClass": "animals.DoSomething",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
+            "name": "Bird",
+            "request": "launch",
+            "mainClass": "animals.Bird",
+            "projectName": "CIICCB12025_98bc1891"
+        },
+        {
+            "type": "java",
             "name": "Task15",
             "request": "launch",
             "mainClass": "Task.Task15",

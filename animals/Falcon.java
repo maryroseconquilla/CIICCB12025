@@ -1,5 +1,5 @@
 package animals;
 
-public class Birds {
+public class Falcon {
     
 }
